@@ -1,0 +1,8 @@
+Nios2 Custom component
+https://www.youtube.com/watch?v=Z6TMpwWXik0
+
+not able to detect any instance for core < hps_sdram_p0 >
+https://community.intel.com/t5/Programmable-Devices/not-able-to-detect-any-instance-for-core-lt-hps-sdram-p0-gt/td-p/115411
+
+How to generate a customized IP CORE in Quartus II software? (qxp file)
+https://www.intel.com/content/www/us/en/support/programmable/articles/000080970.html

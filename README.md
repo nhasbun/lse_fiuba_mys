@@ -1,2 +1,3 @@
-# lse_fiuba_mys
-Trabajo Práctico Final - Microarquitecturas y Softcores - CESE - FIUBA
+# Trabajo Final - Microarquitecturas y Softcores
+Ver [Reporte](./reporte.md)
+
